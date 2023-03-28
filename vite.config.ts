@@ -4,6 +4,7 @@ import static_adapter from "solid-start-static";
 import solidStyled from "vite-plugin-solid-styled";
 
 export default defineConfig({
+  base: "/solid-demo/",
   plugins: [
     solid({ adapter: static_adapter() }),
     solidStyled({
