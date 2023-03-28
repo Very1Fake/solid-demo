@@ -2,37 +2,37 @@
   "/*404": [
     {
       "type": "script",
-      "href": "/assets/_...404_-99bc3808.js"
+      "href": "/solid-demo/assets/_...404_-459eb703.js"
     },
     {
       "type": "script",
-      "href": "/assets/entry-client-52d8506d.js"
+      "href": "/solid-demo/assets/entry-client-1b1a6ea9.js"
     }
   ],
   "/": [
     {
       "type": "script",
-      "href": "/assets/index-57ff6944.js"
+      "href": "/solid-demo/assets/index-799db8b6.js"
     },
     {
       "type": "script",
-      "href": "/assets/entry-client-52d8506d.js"
+      "href": "/solid-demo/assets/entry-client-1b1a6ea9.js"
     }
   ],
   "/profile/": [
     {
       "type": "script",
-      "href": "/assets/index-4219f27f.js"
+      "href": "/solid-demo/assets/index-1cef8aa8.js"
     },
     {
       "type": "script",
-      "href": "/assets/entry-client-52d8506d.js"
+      "href": "/solid-demo/assets/entry-client-1b1a6ea9.js"
     }
   ],
   "entry-client": [
     {
       "type": "script",
-      "href": "/assets/entry-client-52d8506d.js"
+      "href": "/solid-demo/assets/entry-client-1b1a6ea9.js"
     }
   ],
   "index.html": []
